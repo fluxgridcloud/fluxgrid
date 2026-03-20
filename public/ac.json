@@ -1,0 +1,21 @@
+{
+    "version": "v1.0.0",
+    "title": {
+        "en": "We've released a client application!",
+        "zh-SG": "我们出客户端啦！",
+        "zh-TW": "我們出客戶端啦！",
+        "ja-JP": "クライアントアプリケーションをリリースしました!",
+        "ko-KR": "클라이언트용 애플리케이션을 출시했습니다!"
+    },
+    "content": {
+        "en": "Dear Users,\n\nThank you for your continued support and valuable feedback. To better meet customer needs in real-world usage scenarios, we are officially releasing a new version of our client. This update is centered on user experience, with comprehensive upgrades to overall performance and operational smoothness, helping deliver a more efficient and stable experience.\n\nKey Updates:\n✨ User Experience Upgrade: Smoother operations and faster responsiveness\n🚀 Performance Improvement: Overall efficiency further optimized\n🔒 Enhanced Stability: Ensures reliable long-term operation\n🧠 Intelligent Adaptation Optimization: Automatically adapts to different usage environments, reducing manual adjustments\n\nThe new client version is now fully available. We invite you to update and experience it at your earliest convenience. If you have any questions or suggestions, please feel free to contact our support team.\n\nThank you for your trust and companionship. We will continue listening to user feedback and continuously improving the product experience.\n\n— FluxGrid Team",
+        "zh-SG": "尊敬的用户：\n\n感谢大家一直以来的宝贵反馈与支持。为了更好地满足客户在实际使用中的需求，我们正式推出全新客户端版本。本次更新以用户体验为核心，对整体性能与使用流畅度进行了全面升级，助力您获得更高效、更稳定的使用体验。\n\n本次更新重点：\n✨ 使用体验升级：操作更顺畅，响应更迅速\n🚀 性能表现提升：整体效率进一步优化\n🔒 稳定性增强：保障长期、稳定运行\n🧠 智能适配优化：自动适应不同使用环境，减少人工调整\n\n新版本客户端现已全面开放，欢迎您第一时间更新体验。如有任何疑问或建议，欢迎随时联系我们的服务支持团队。\n\n感谢您的信任与陪伴，我们将持续倾听用户声音，不断优化产品体验。\n\n—— FluxGrid 团队",
+        "zh-TW": "尊敬的用戶：\n\n感謝大家一直以來的寶貴回饋與支持。為了更好地滿足用戶在實際使用中的需求，我們正式推出全新客戶端版本。本次更新以用戶體驗為核心，針對整體效能與操作流暢度進行全面升級，協助您獲得更高效、更穩定的使用體驗。\n\n本次更新重點：\n✨ 使用體驗升級：操作更順暢，回應更迅速\n🚀 效能表現提升：整體效率進一步優化\n🔒 穩定性強化：確保長時間穩定運行\n🧠 智慧適配優化：自動適應不同使用環境，減少人工調整\n\n新版本客戶端現已全面開放，歡迎您第一時間更新體驗。如有任何疑問或建議，歡迎隨時聯繫我們的服務支援團隊。\n\n感謝您的信任與陪伴，我們將持續傾聽用戶聲音，不斷優化產品體驗。\n\n—— FluxGrid 團隊",
+        "ja-JP": "ユーザーの皆様へ\n\nいつも貴重なフィードバックとご支援をいただき、誠にありがとうございます。実際のご利用シーンにおけるユーザーのニーズにお応えするため、新しいクライアントバージョンを正式にリリースいたしました。本アップデートはユーザー体験を中心に、全体的なパフォーマンスと操作のスムーズさを大幅に向上させています。\n\n今回のアップデート内容：\n✨ ユーザー体験の向上：よりスムーズで迅速な操作\n🚀 パフォーマンス向上：全体的な効率をさらに最適化\n🔒 安定性強化：長時間の安定稼働を実現\n🧠 インテリジェント適応最適化：利用環境に応じて自動調整し、手動操作を削減\n\n新しいクライアントバージョンは現在ご利用可能です。ぜひお早めにアップデートしてお試しください。ご不明点やご意見がございましたら、いつでもサポートチームまでご連絡ください。\n\n皆様の信頼とご愛顧に感謝するとともに、今後もユーザーの声を大切にし、製品体験の向上に努めてまいります。\n\n— FluxGrid チーム",
+        "ko-KR": "사용자 여러분께,\n\n항상 보내주시는 소중한 피드백과 성원에 감사드립니다. 실제 사용 환경에서의 고객 니즈를 더욱 잘 충족하기 위해 새로운 클라이언트 버전을 공식 출시했습니다. 이번 업데이트는 사용자 경험을 중심으로 전반적인 성능과 사용 흐름을 전면적으로 개선하여 보다 효율적이고 안정적인 경험을 제공합니다.\n\n이번 업데이트 주요 내용:\n✨ 사용자 경험 업그레이드: 더욱 부드러운 조작과 빠른 반응\n🚀 성능 개선: 전반적인 효율 추가 최적화\n🔒 안정성 강화: 장기적이고 안정적인 운영 보장\n🧠 지능형 환경 적응 최적화: 사용 환경에 따라 자동 조정되어 수동 설정 감소\n\n신규 클라이언트 버전은 현재 전면 공개되었습니다. 빠른 시일 내 업데이트하여 경험해 보시기 바랍니다. 문의 사항이나 제안이 있으시면 언제든지 서비스 지원팀으로 연락해 주세요.\n\n여러분의 신뢰와 동행에 감사드리며, 앞으로도 사용자 의견을 지속적으로 반영하여 제품 경험을 개선해 나가겠습니다.\n\n— FluxGrid 팀"
+    },
+    "WindownloadUrl": "https://github.com/fluxgridcloud/fluxgrid/releases",
+    "MacdownloadUrl": "https://github.com/fluxgridcloud/fluxgrid/releases",
+    "Mac86downloadUrl": "https://github.com/fluxgridcloud/fluxgrid/releases",
+    "mandatory": false
+}
